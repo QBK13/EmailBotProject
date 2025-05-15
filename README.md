@@ -19,7 +19,7 @@ This project is a Python-based email automation bot that reads data from a Googl
 ## Setup Instructions
 1. **Clone the Repository** (once uploaded to GitHub):
    ```bash
-   git clone <your-repo-url>
+   git clone <[your-repo-url](https://github.com/QBK13/EmailBotProject.git)>
    cd EmailBotProject
 2. **Install Dependencies:**
 pip install gspread oauth2client python-dotenv
